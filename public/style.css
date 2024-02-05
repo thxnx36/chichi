@@ -1,7 +1,7 @@
 *{padding: 0; margin:0;}
 .cat-image img {
-    padding-top: 70px;
-    max-width: 200px; /* Set the maximum width */
+    padding-top: 80px;
+    max-width: 180px; /* Set the maximum width */
     height: auto; /* Maintain aspect ratio */
 }
 .cat-image2 img {
@@ -49,7 +49,7 @@
 }
 
 .choice button:hover {
-    background-color: #2980b9;
+    background-color: #4629b9;
 }
 .audio-player-container {
     display: none;
@@ -61,4 +61,8 @@
     color: #fff;
     padding: 10px;
     text-align: center;
+}
+
+@media only screen and (max-device-width: 390px) {
+    /* Your styles for iPhone 12 */
 }
