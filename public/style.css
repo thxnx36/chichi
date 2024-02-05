@@ -1,7 +1,6 @@
 *{padding: 0; margin:0;}
-
 .cat-image img {
-    padding-top: 150px;
+    padding-top: 70px;
     max-width: 200px; /* Set the maximum width */
     height: auto; /* Maintain aspect ratio */
 }
